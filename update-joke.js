@@ -7,7 +7,7 @@ const readmeFilePath = path.join(__dirname, 'README.md');
 
 // Function to get a random joke from jokes.json
 function getRandomJoke() {
-  const jokes = JSON.parse(fs.readFileSync("jokes.jason", 'utf8'));
+  const jokes = JSON.parse(fs.readFileSync(jokesFilePath, 'utf8'));
   const randomIndex = Math.floor(Math.random() * jokes.length);
   return jokes[randomIndex];
 }
