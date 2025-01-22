@@ -40,50 +40,12 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 <!--Github stats Table--> 
 Github Stats
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-    </td>
-    <td width="50%">
-      <p align="center">
-        <a href="https://github.com/IsaacLiraa">
-          <img align="center" src="https://streak-stats.demolab.com?user=IsaacLiraa&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <p align="center">
-        <a href="https://github.com/IsaacLiraa/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaacLiraa&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <p align="center">
-        <a href="https://github.com/IsaacLiraa">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=IsaacLiraa&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+
+![IsaacLiraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacLira&show_icons=true&theme=vue)
+
 <br />
 
----
-
-<!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsaacLiraa&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
-
+#
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
@@ -91,21 +53,14 @@ Github Stats
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
-
-
-
-
-
 <!--Contact Section--> 
-
-<h2 align="left">🤝 Connect With me 🤝 </h2>
 <div align="center">
   
 <a href="mailto:instancememo@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="instancememo@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/IsaacLiraa" target="_blank">
+<a href="https://www.github.com/IsaacLiraa" target="_blank">
 <img src="./github.png" width=50 height=50 alt="IsaacLiraa" style="margin-bottom: 5px;" />
 </a>
 
