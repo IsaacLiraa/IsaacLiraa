@@ -30,4 +30,4 @@ jobs:
         git config --global user.email "instancememo@gmail.com"
         git add README.md
         git commit -m "Update daily joke"
-        git push
+        git push https://github-actions:${{ secrets.GH_TOKEN }}@github.com/IsaacLiraa/IsaacLiraa.git
