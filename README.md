@@ -4,13 +4,15 @@
 
 ![IsaacLiraa Banner Image](./banner.png)
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[IsaacLiraa][youtube]" to more than 500k subscribers.
-
+Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I specialize in creating immersive, interactive 3D experiences for the web, combining creativity with functionality to bring ideas to life. With a passion for learning and improving my skills, I focus on delivering user-friendly and visually stunning solutions. I’m always excited to collaborate on projects that push the boundaries of web development, and I’m proud to contribute to the digital world from my vibrant home country. Let’s create something great together!
    <p align="left">
       <a href="https://github.com/IsaacLiraa?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/IsaacLiraa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/IsaacLiraa?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/IsaacLiraa?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+       <a align="left">
+         <img src="https://komarev.com/ghpvc/?username=IsaacLira&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="IsaacLiraa" style="padding-right:20px;" />
+       </a>
    </p>
 
 ---
