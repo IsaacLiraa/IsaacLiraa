@@ -80,14 +80,48 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 </table>
 <br />
 
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsaacLiraa&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
-
 ---
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsaacLiraa&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=I%20try%20more%20and%20more%20to%20be%20myself%2C%20caring%20relatively%20little%20whether%20people%20approve%20or%20disapprove.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+
+
+
+
+
+<!--Contact Section--> 
+
+<h2 align="left">🤝 Connect With me 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:instancememo@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="instancememo@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.githubcom/IsaacLiraa" target="_blank">
+<img src="./github.png" width=50 height=50 alt="IsaacLiraa" style="margin-bottom: 5px;" />
+</a>
+
+</div>
+<br/>
+
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
