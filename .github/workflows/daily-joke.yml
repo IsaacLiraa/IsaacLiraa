@@ -1,0 +1,37 @@
+name: Chiste de Programador Diario
+
+on:
+  schedule:
+    - cron: '0 7 * * *' # 7:00 AM UTC-4 (Atlantic Time) - Esto corresponde a las 7:00 AM en la zona horaria Atlántica
+
+jobs:
+  update-joke:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Leer un chiste aleatorio desde jokes.json
+        run: |
+          # Instalar jq para leer el archivo JSON
+          sudo apt-get install jq
+
+          # Obtener un chiste aleatorio
+          RANDOM_JOKE=$(jq -r '. | .[random | floor * length | toint]' jokes.json)
+          
+          # Crear el mensaje con el chiste
+          echo "## Chiste del Día: $RANDOM_JOKE" > joke_of_the_day.md
+
+      - name: Actualizar README.md con el chiste
+        run: |
+          # Concatenar el chiste al README.md
+          cat joke_of_the_day.md >> README.md
+
+      - name: Commit y push
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add README.md joke_of_the_day.md
+          git commit -m "Actualizar chiste de programador diario"
+          git push
