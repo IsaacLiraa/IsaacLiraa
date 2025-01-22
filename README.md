@@ -35,14 +35,12 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 <br />
 
 #
-
 <!--Github stats Table--> 
 ### 📊 Stats
 
 ![IsaacLiraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacLira&show_icons=true&theme=vue)
 
 #
-
 <!--STARTS_HERE_QUOTE_CARD-->
 ## 😁 Daily Joke
 
@@ -50,9 +48,9 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 > _This will be updated daily with a new joke!_
 
 <!--ENDS_HERE_QUOTE_CARD-->
-
+#
 <!--Contact Section--> 
-## 📲 Contact Me
+<h3 align="center">Hit Me Up</h3> 
 <div align="center">
 <a style="text-decoration:none;" href="mailto:instancememo@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="instancememo@gmail.com" style="margin-bottom: 5px;" />
