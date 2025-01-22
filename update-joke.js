@@ -1,31 +1,30 @@
 const fs = require('fs');
-const path = require('path');
 
-// Path to jokes.json and README.md
-const jokesFilePath = path.join(__dirname, 'jokes.json');
-const readmeFilePath = path.join(__dirname, 'README.md');
+async function updateJoke() {
+  try {
+    const quotes = require('./quotes.json');
+    const randomIndex = Math.floor(Math.random() * quotes.length);
+    const { quote, author } = quotes[randomIndex];
 
-// Function to get a random joke from jokes.json
-function getRandomJoke() {
-  const jokes = JSON.parse(fs.readFileSync(jokesFilePath, 'utf8'));
-  const randomIndex = Math.floor(Math.random() * jokes.length);
-  return jokes[randomIndex];
-}
-
-// Function to update the README.md with the new joke
-function updateReadme(joke) {
-  const readmeContent = `
-## Daily Joke
-
+    const cardDesign = `
+<!--STARTS_HERE_JOKE_CARD-->
 > **Joke of the Day:**
-> _${joke}_
-  `;
+> _This will be updated daily with a new joke!_
+<!--ENDS_HERE_JOKE_CARD-->
+`;
 
-  // Write the joke to README.md
-  fs.writeFileSync(readmeFilePath, readmeContent, 'utf8');
-  console.log('README.md updated with the new joke!');
+    const readmePath = './README.md';
+    let readmeContent = fs.readFileSync(readmePath, 'utf-8');
+
+    readmeContent = readmeContent.replace(
+      /<!--STARTS_HERE_JOKE_CARD-->(.|\n)*<!--ENDS_HERE_JOKE_CARD-->/,
+      cardDesign
+    );
+
+    fs.writeFileSync(readmePath, readmeContent);
+  } catch (error) {
+    console.error('Error updating quote:', error);
+  }
 }
 
-// Get a random joke and update README
-const joke = getRandomJoke();
-updateReadme(joke);
+updateJoke();
