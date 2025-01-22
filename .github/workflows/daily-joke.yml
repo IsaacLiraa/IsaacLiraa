@@ -26,8 +26,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      - name: Commit and push changes
+      - name: Commit the changes
         run: |
+          git config --global user.name "IsaacLiraa"
+          git config --global user.email "instancememo@gmail.com"
           git add README.md
-          git -c user.name='IsaacLiraa' -c user.email='instancememo@gmail.com' commit -m "Update README with daily joke" -a
-          git push
+          git commit -m "Update daily joke"
+          git push https://github-actions:${{ secrets.GH_TOKEN }}@github.com/IsaacLiraa/IsaacLiraa.git
