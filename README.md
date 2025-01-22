@@ -43,11 +43,7 @@ Github Stats
 <table width="100%">
   <tr>
     <td width="50%">
-      <p align="center">
-        <a href="https://github.com/IsaacLiraa">
-          ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacLiraa&theme=vue&show_icons=true)
-        </a>
-      </p>
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
     </td>
     <td width="50%">
       <p align="center">
