@@ -54,18 +54,10 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 <!--Contact Section--> 
 ## 📲 Contact Me
 <div align="center">
-
 <a style="text-decoration:none;" href="mailto:instancememo@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="instancememo@gmail.com" style="margin-bottom: 5px;" />
 </a>
-
-<a style="text-decoration:none;" href="https://www.github.com/IsaacLiraa" target="_blank">
-<img src="./github.png" width=50 height=50 alt="IsaacLiraa" style="margin-bottom: 5px;" />
-</a>
-
 </div>
-<br/>
-
 
 <!--Footer--> 
 <p align="center">
