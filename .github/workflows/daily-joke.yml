@@ -1,33 +1,33 @@
-name: Daily Joke Update
+name: Update Joke
 
 on:
+  workflow_dispatch:  #Manually trigger the workflow
   schedule:
-    - cron: '0 7 * * *'  # This runs the workflow every day at 7:00 AM UTC (4:00 AM Atlantic Time)
-  workflow_dispatch:  # This allows you to manually trigger the workflow from the Actions tab
+    - cron: '0 7 * * *'  # Schedule daily at 12:01 AM Indian Time
 
 jobs:
-  update-joke:
+  update-readme:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - name: Checkout the repository
-      uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v2
-      with:
-        node-version: '16'
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 14
 
-    # Removed npm install step as it's not necessary
-    # No external dependencies are used in the update-joke.js script
-    
-    - name: Run the update joke script
-      run: node update-joke.js
+      - name: Install dependencies
+        run: npm install
 
-    - name: Commit the changes
-      run: |
-        git config --global user.name "IsaacLiraa"
-        git config --global user.email "instancememo@gmail.com"
-        git add README.md
-        git commit -m "Update daily joke"
-        git push https://github-actions:${{ secrets.GH_TOKEN }}@github.com/IsaacLiraa/IsaacLiraa.git
+      - name: Update Joke
+        run: node update-joke.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push changes
+        run: |
+          git add README.md
+          git -c user.name='IsaacLiraa' -c user.email='instancememo@gmail.com' commit -m "Update README with daily joke" -a
+          git push
