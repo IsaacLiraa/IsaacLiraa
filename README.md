@@ -36,13 +36,12 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 
 #
 
-
 <!--Github stats Table--> 
-Github Stats
+### 📊 Stats
 
 
 ![IsaacLiraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacLira&show_icons=true&theme=vue)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacLira)](https://github.com/IsaacLira/github-readme-stats)
 <br />
 
 #
