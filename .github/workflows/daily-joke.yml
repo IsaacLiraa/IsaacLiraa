@@ -1,35 +1,40 @@
-name: Update Joke
+name: Daily Joke Update
 
 on:
-  workflow_dispatch:  #Manually trigger the workflow
   schedule:
-    - cron: '0 7 * * *'  # Schedule daily at 12:01 AM Indian Time
+    - cron: '0 7 * * *'  # Runs every day at 7:00 AM UTC
+  workflow_dispatch:  # Allows you to manually trigger the workflow
 
 jobs:
-  update-readme:
+  update-joke:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      # Set up Node.js environment
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v2
         with:
-          node-version: 14
+          node-version: '16'
 
+      # Install dependencies (if any, in this case, none are needed)
       - name: Install dependencies
         run: npm install
 
-      - name: Update Joke
+      # Run the update joke script
+      - name: Run update-joke.js
         run: node update-joke.js
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      - name: Commit the changes
+      # Commit and push the updated README.md
+      - name: Commit and push changes
         run: |
-          git config --global user.name "YourNotThatGuyPal"
+          git config --global user.name "IsaacLiraa"
           git config --global user.email "instancememo@gmail.com"
           git add README.md
           git commit -m "Update daily joke"
-          git push https://github-actions:${{ secrets.GH_TOKEN }}@github.com/IsaacLiraa/IsaacLiraa.git
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.DJ_TOKEN }}
