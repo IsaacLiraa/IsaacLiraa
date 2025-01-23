@@ -1,22 +1,33 @@
 name: Daily Joke
 run-name: ${{ github.actor }} is Updating The Joke
+
 on:
-  workflow_dispatch:  #Manually trigger the workflow
+  workflow_dispatch:  # Manually trigger the workflow
   schedule:
     - cron: '0 7 * * *'  # Schedule daily at 12:01 AM Indian Time
+
 jobs:
   update-joke:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Ensure the bot has write permissions
+
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
+
       - run: npm install
+
       - run: node update-joke.js
         env:
-          GITHUB_TOKEN: ${{ secrets.DJ_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.DJ_TOKEN }}  # Use your custom token here for the script
+
       - run: |
           git add README.md
           git -c user.name='IsaacLiraa' -c user.email='instancememo@gmail.com' commit -m "Update README with daily joke" -a
-          git push
+          git push https://x-access-token:${{ secrets.DJ_TOKEN }}@github.com/IsaacLiraa/IsaacLiraa.git
+        env:
+          DJ_TOKEN: ${{ secrets.DJ_TOKEN }}  # Ensure the token is available to the step for push
