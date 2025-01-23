@@ -46,7 +46,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Joke of the Day_
+> _How do you motivate a programmer? Give them a bug-free codebase._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
