@@ -32,7 +32,7 @@ jobs:
       - name: Commit and push changes
         run: |
           git config --global user.name "IsaacLiraa"
-          git config --global user.email "instancememo@gmail.com"
+          git config --global user.email "github-actions[bot]@github.com"
           git add README.md
           git commit -m "Update daily joke"
           git push
