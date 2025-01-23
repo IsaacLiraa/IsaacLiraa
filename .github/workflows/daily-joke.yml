@@ -14,6 +14,8 @@ jobs:
           node-version: '20'
       - run: npm install
       - run: node update-joke.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.DJ_TOKEN }}
       - run: |
           git add README.md
           git -c user.name='IsaacLiraa' -c user.email='instancememo@gmail.com' commit -m "Update README with daily joke" -a
