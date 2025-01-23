@@ -19,7 +19,7 @@ const jokePlaceholder = '<!--STARTS_HERE_QUOTE_CARD-->';
 const jokeEndPlaceholder = '<!--ENDS_HERE_QUOTE_CARD-->';
 
 // Update the joke section in README.md
-const jokeSection = `${jokePlaceholder}\n## 😁 Daily Joke\n\n> **Joke of the Day:**\n> _${randomJoke}_\n\n${jokeEndPlaceholder}`;
+const jokeSection = `${jokePlaceholder}\n### 😁 Daily Joke\n\n> **Joke of the Day:**\n> _${randomJoke}_\n\n${jokeEndPlaceholder}`;
 readmeContent = readmeContent.replace(
   /<!--STARTS_HERE_QUOTE_CARD-->(.|\n)*<!--ENDS_HERE_QUOTE_CARD-->/,
   jokeSection
