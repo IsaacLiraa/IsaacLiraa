@@ -1,0 +1,7 @@
+{
+  "name": "my-repo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node update-joke.js"
+  }
+}
