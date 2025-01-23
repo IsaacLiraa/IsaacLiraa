@@ -1,7 +1,8 @@
 {
-  "name": "my-repo",
+  "name": "joke-updater",
   "version": "1.0.0",
   "scripts": {
+    "install": "echo 'No dependencies needed.'",
     "start": "node update-joke.js"
   }
 }
