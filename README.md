@@ -42,13 +42,11 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 
 #
 
-### 😁 Daily Joke
-
 <!--STARTS_HERE_QUOTE_CARD-->
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _[object Object]_
+> _Joke of the Day_
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
