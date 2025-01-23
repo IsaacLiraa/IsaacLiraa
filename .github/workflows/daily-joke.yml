@@ -37,4 +37,4 @@ jobs:
           git commit -m "Update daily joke"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.DJ_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
