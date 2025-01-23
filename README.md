@@ -49,6 +49,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 > _This will be updated daily with a new joke!_
 <!--ENDS_HERE_QUOTE_CARD-->
 
+#
 <!--Contact Section--> 
 <h3 align="center">Hit Me Up</h3> 
 <div align="center">
