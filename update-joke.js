@@ -9,7 +9,7 @@ const readmeFilePath = path.join(__dirname, 'README.md');
 const jokes = JSON.parse(fs.readFileSync(jokesFilePath, 'utf-8'));
 
 // Pick a random joke
-const randomJoke = jokes[Math.floor(Math.random() * jokes.length)];
+const randomJoke = jokes[Math.floor(Math.random() * jokes.length)].joke;  // Access the joke string
 
 // Read the README.md file
 let readmeContent = fs.readFileSync(readmeFilePath, 'utf-8');
@@ -18,8 +18,10 @@ let readmeContent = fs.readFileSync(readmeFilePath, 'utf-8');
 const jokePlaceholder = '<!--STARTS_HERE_QUOTE_CARD-->';
 const jokeEndPlaceholder = '<!--ENDS_HERE_QUOTE_CARD-->';
 
-// Update the joke section in README.md
+// Format the joke section for README.md
 const jokeSection = `${jokePlaceholder}\n### 😁 Daily Joke\n\n> **Joke of the Day:**\n> _${randomJoke}_\n\n${jokeEndPlaceholder}`;
+
+// Replace the content between the placeholders with the new joke section
 readmeContent = readmeContent.replace(
   /<!--STARTS_HERE_QUOTE_CARD-->(.|\n)*<!--ENDS_HERE_QUOTE_CARD-->/,
   jokeSection
