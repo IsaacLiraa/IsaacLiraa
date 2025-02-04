@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What do you call a database with bad data? A SQL mess._
+> _What do you call a code that doesn’t work? A bug you need to squash._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
