@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _How does a programmer make a decision? By evaluating the logic and testing all outcomes._
+> _What’s a web developer’s least favorite part of a project? The never-ending 'load' time._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
