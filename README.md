@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why do programmers hate Mondays? Because they need to rebase their thoughts._
+> _Why did the developer get stuck in the elevator? They didn’t have permission to move up._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
