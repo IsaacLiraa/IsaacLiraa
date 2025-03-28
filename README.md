@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What do you call a slow-running program? A 'lag' function._
+> _Why did the developer go to sleep? They were debugging their dreams._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
