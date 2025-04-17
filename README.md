@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What did the PHP developer say at the party? 'I’m just here for the dynamic typing.'_
+> _Why do programmers hate nature? It has too many trees._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
