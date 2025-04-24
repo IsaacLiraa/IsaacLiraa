@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What’s a programmer’s favorite hangout place? The loop._
+> _How does a programmer make a decision? By evaluating the logic and testing all outcomes._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
