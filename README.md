@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why do developers always mix up Christmas and Halloween? Because OCT 31 == DEC 25._
+> _What did the Python developer say? 'I’m just trying to make some sense of this indentation.'_
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
