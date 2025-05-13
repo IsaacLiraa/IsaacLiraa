@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why did the developer refuse to leave their desk? Because they were working on a 'critical bug fix.'_
+> _Why do programmers hate nature? It has too many trees._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
