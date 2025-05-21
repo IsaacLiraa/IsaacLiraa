@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why can’t programmers tell jokes? Because they have to explain every line._
+> _How do programmers prefer their emails? With no attachments._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
