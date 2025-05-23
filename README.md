@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _How do you know if a programmer is at your party? Don’t worry, they’ll debug it._
+> _Why do programmers write so many comments? To explain to their future selves what they were thinking._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
