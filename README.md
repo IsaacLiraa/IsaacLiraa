@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What do you call a developer who has just finished a project? An exhausted variable._
+> _Why don’t developers trust the cloud? Too many server issues._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
