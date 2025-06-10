@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why do programmers always carry a notebook? To jot down all the bugs they need to fix._
+> _Why do developers always mix up Christmas and Halloween? Because OCT 31 == DEC 25._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
