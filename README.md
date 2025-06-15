@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why did the developer stop working on the project? It was going nowhere and needed a 'break'._
+> _What do you call a bug in a program? A feature with unexpected side effects._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
