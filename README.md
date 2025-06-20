@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why do developers hate working in the kitchen? Too many 'forks' and 'branches.'_
+> _Why don’t developers like playing chess? They prefer to avoid the check and move straight to the code._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
