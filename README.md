@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What do you call an argument that goes on forever? A function with no return._
+> _How do you know when a developer is stressed? When they can’t find the ‘escape’ key._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
