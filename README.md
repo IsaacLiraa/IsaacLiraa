@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _How do programmers prefer their emails? With no attachments._
+> _Why did the developer write a love letter in code? Because they were just trying to 'express' their feelings._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
