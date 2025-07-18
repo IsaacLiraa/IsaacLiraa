@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why don’t programmers like to play hide and seek? Because good luck hiding when you’re in a recursive loop._
+> _Why do programmers prefer dark mode? Because light attracts bugs._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
