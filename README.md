@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _How does a developer fix a slow app? They add some 'optimize' to their routine._
+> _Why was the developer confused? Because their logic was flawed._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
