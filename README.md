@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _How does a developer relax? By running a full test suite._
+> _Why do programmers use dark humor? Because it’s harder to see the bugs._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
