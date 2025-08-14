@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why do programmers make terrible detectives? Because they always end up in an infinite loop._
+> _What does a programmer do when they feel cold? Add more layers._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
