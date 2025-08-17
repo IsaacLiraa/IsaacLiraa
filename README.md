@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why did the developer write a love letter in code? Because they were just trying to 'express' their feelings._
+> _Why don’t programmers like to play poker? They can’t handle the ‘cards’ being shuffled._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
