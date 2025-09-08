@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What does a programmer do when they’re thirsty? Call for a refresh._
+> _What do you call a programmer who loves to talk? A recursive communicator._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
