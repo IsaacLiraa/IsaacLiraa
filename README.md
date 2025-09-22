@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why did the developer refuse to use the library? Because it didn’t have good documentation._
+> _How did the developer fix their broken relationship? By resetting the connection._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
