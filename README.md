@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What do you call it when a developer writes clean code? A rare event._
+> _Why did the developer go to therapy? They had too many unresolved issues._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
