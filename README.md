@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What did the Python developer say at the bakery? 'I’m just here for the Python bread.'_
+> _Why do programmers hate Mondays? Because they need to rebase their thoughts._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
