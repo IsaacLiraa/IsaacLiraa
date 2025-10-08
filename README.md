@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why don’t programmers like math? Because they can’t deal with floating point exceptions._
+> _What do you call a function that takes forever? A time-consuming task._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
