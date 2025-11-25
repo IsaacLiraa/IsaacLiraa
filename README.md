@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why was the computer cold? It left its Windows open._
+> _What’s a developer’s favorite holiday? Bug fixing day._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
