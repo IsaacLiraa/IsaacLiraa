@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What’s a programmer’s least favorite thing to do? Compile without proper error checking._
+> _What’s a programmer’s favorite hangout place? The loop._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
