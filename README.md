@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What did the PHP developer say at the party? 'I’m just here for the dynamic typing.'_
+> _How does a developer fix a slow app? They add some 'optimize' to their routine._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
