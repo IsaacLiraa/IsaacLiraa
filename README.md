@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What’s the best way to fix a bug? Write a test case that breaks the system._
+> _How many programmers does it take to change a lightbulb? None. That's a hardware problem._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
