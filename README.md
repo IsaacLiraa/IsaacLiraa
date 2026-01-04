@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why don’t developers like playing chess? They prefer to avoid the check and move straight to the code._
+> _What’s a coder’s favorite exercise? Running tests._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
