@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why was the developer late for work? Because they were stuck in a recursive loop._
+> _Why do Java developers wear glasses? Because they can’t C#._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
