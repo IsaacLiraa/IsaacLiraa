@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _How does a programmer fix a broken arm? They wrap it with code._
+> _How does a developer fix a slow app? They add some 'optimize' to their routine._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
