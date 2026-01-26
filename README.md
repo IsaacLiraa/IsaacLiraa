@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What’s the difference between a coder and a magician? One deals with spells, the other deals with syntax errors._
+> _How do programmers like their coffee? With no Java errors._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
