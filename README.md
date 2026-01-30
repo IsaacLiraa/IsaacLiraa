@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _How many programmers does it take to change a lightbulb? None. That's a hardware problem._
+> _Why are programmers like artists? Because they turn abstract ideas into code._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
