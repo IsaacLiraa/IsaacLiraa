@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why did the developer use a ladder? To climb to the next level of the code._
+> _How does a programmer fix a broken heart? By debugging the emotions._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
