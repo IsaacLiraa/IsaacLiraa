@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _How does a programmer fix a broken heart? By debugging the emotions._
+> _What’s a programmer’s favorite exercise? Stretching their code._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
