@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _How do you know when a developer is stressed? When they can’t find the ‘escape’ key._
+> _Why did the programmer keep getting rejected? Because they didn’t follow the proper protocol._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
