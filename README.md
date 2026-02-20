@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why do programmers avoid vacations? They’re always worried about breaking production._
+> _Why did the developer become a chef? Because they liked working with recipes._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
