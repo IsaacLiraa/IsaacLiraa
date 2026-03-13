@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why don’t developers trust the cloud? Too many server issues._
+> _What’s the programmer’s motto? 'It works on my machine.'_
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
