@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What’s a programmer's favorite band? The Rolling Stones – they’re always debugging._
+> _How does a programmer fix a broken heart? By debugging the emotions._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
