@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why did the programmer get a promotion? Because they knew how to handle exceptions._
+> _What do you call an argument that goes on forever? A function with no return._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
