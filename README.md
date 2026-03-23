@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What do you call an argument that goes on forever? A function with no return._
+> _What do you call a slow-running program? A 'lag' function._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
