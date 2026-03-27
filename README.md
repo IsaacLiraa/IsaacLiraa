@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why do programmers prefer dark mode? Because light attracts bugs._
+> _Why are programmers like artists? Because they turn abstract ideas into code._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
