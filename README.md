@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why do programmers use dark humor? Because it’s harder to see the bugs._
+> _Why did the developer use a ladder? To climb to the next level of the code._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
