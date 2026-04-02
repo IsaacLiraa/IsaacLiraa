@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What’s a programmer’s least favorite thing to do? Compile without proper error checking._
+> _Why did the Java developer start a new project? Because they wanted a new class._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
