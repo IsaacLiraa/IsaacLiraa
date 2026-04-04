@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why did the programmer keep getting rejected? Because they didn’t follow the proper protocol._
+> _Why did the developer keep pressing ‘ctrl + z’? To undo the last bad decision._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
