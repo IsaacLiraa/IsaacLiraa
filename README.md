@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What do you call a function that takes forever? A time-consuming task._
+> _Why did the developer become a chef? Because they liked working with recipes._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
