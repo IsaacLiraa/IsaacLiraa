@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why do programmers prefer iOS over Android? They like their code to be clean and functional._
+> _How many programmers does it take to change a lightbulb? None. That's a hardware problem._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
