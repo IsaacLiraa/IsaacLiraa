@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why did the developer go to therapy? They had too many unresolved issues._
+> _What’s the difference between a coder and a magician? One deals with spells, the other deals with syntax errors._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
