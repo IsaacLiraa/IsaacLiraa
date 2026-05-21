@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _How does a programmer fix a broken heart? By debugging the emotions._
+> _What do you call a developer who only codes in HTML? A structuralist._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
