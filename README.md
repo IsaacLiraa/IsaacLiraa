@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What do you call a developer who only codes in HTML? A structuralist._
+> _Why do Java developers wear glasses? Because they can’t C#._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
