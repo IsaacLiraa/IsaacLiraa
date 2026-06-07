@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What do you call a programmer who loves to talk? A recursive communicator._
+> _Why don’t programmers like to play hide and seek? Because good luck hiding when you’re in a recursive loop._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
