@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What’s a web developer’s least favorite part of a project? The never-ending 'load' time._
+> _Why do programmers use version control? To track their changes and avoid regrets._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
