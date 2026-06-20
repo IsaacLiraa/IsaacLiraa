@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What’s a programmer’s least favorite thing to do? Compile without proper error checking._
+> _Why don’t programmers like to play hide and seek? Because good luck hiding when you’re in a recursive loop._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
