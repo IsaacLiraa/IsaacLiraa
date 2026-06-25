@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What’s a programmer’s favorite movie? The Matrix – it’s all about that code._
+> _Why do developers always mix up Christmas and Halloween? Because OCT 31 == DEC 25._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
