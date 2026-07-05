@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What does a programmer do when they feel cold? Add more layers._
+> _Why don’t programmers use keyboards? Because they have their own shortcuts._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
