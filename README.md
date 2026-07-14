@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why are programmers like artists? Because they turn abstract ideas into code._
+> _Why did the developer stop playing the piano? Because they couldn’t deal with the 'notes'._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
