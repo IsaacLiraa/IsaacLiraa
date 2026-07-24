@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why do programmers prefer UNIX over Windows? Because UNIX is always terminal._
+> _Why did the developer go to therapy? They had too many unresolved issues._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
