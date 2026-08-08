@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why don’t programmers like to play hide and seek? Because good luck hiding when you’re in a recursive loop._
+> _What did the PHP developer say at the party? 'I’m just here for the dynamic typing.'_
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
