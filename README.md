@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why did the Java developer start a new project? Because they wanted a new class._
+> _What’s a programmer’s favorite movie? The Matrix – it’s all about that code._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
