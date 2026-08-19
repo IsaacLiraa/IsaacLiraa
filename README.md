@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What do you get when you cross a developer with a programmer? A fully optimized bug fixer._
+> _What’s the difference between a software developer and a designer? The developer focuses on functionality, the designer focuses on aesthetics._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
