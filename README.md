@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _How many programmers does it take to change a lightbulb? None. That's a hardware problem._
+> _Why did the programmer get a promotion? Because they knew how to handle exceptions._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
