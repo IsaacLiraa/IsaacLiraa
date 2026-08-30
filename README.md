@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What do you call a function that is hard to debug? A 'tangled' mess._
+> _What’s the difference between a coder and a magician? One deals with spells, the other deals with syntax errors._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
