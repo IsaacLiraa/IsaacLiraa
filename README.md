@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why did the developer keep making changes? They didn’t know when to 'commit'._
+> _What do you call an infinite loop? A programmer’s worst nightmare._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
