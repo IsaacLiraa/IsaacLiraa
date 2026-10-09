@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What did the PHP developer say at the party? 'I’m just here for the dynamic typing.'_
+> _What does a web developer do when they’re bored? They scroll endlessly through code._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
