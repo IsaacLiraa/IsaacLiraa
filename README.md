@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _What does a programmer do when they’re thirsty? Call for a refresh._
+> _What’s the best way to fix a bug? Write a test case that breaks the system._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
