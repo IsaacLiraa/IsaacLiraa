@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why did the web developer break up with the mobile developer? There were too many cross-platform issues._
+> _Why did the programmer keep getting rejected? Because they didn’t follow the proper protocol._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
