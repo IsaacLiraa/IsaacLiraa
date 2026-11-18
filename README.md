@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why did the programmer keep getting rejected? Because they didn’t follow the proper protocol._
+> _Why do programmers always carry a notebook? To jot down all the bugs they need to fix._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
