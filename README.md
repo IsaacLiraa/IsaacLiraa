@@ -47,7 +47,7 @@ Hi, I'm Isaac, a 3D web developer from the beautiful Dominican Republic. I speci
 ### 😁 Daily Joke
 
 > **Joke of the Day:**
-> _Why did the programmer go broke? Because he used up all his cache._
+> _How do you know when a developer is stressed? When they can’t find the ‘escape’ key._
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
